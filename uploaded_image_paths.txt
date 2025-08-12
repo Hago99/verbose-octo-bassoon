@@ -1137,3 +1137,8 @@
 /home/eldas/Desktop/Affiliate/amazon_products/B0CPYNGCXB/main_img.jpg
 /home/eldas/Desktop/Affiliate/amazon_products/B07PB1X4CN/main_img.jpg
 /home/eldas/Desktop/Affiliate/amazon_products/B09G5W9R6R/main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B01MSBOBM7\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0BV27DL6Y\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0DLHGL25T\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B09LPCZ9FF\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0CLL2CCJR\main_img.jpg
