@@ -46,8 +46,8 @@ jobs:
             [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
             Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
           }
-          # Update Google Chrome
-          choco upgrade googlechrome -y
+          # Update Google Chrome and ignore the checksum mismatch
+          choco upgrade googlechrome -y --ignore-checksums
           # Install ChromeDriver that matches installed Chrome
           choco upgrade chromedriver --force -y
 
