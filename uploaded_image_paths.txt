@@ -1142,3 +1142,7 @@ D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0BV27DL6Y\main_i
 D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0DLHGL25T\main_img.jpg
 D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B09LPCZ9FF\main_img.jpg
 D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0CLL2CCJR\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0CQLRDRGQ\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0CZ3L9C1J\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0CB6B2JWG\main_img.jpg
+D:\a\verbose-octo-bassoon\verbose-octo-bassoon\amazon_products\B0DWK1CX5P\main_img.jpg
